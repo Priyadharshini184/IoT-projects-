@@ -10,7 +10,6 @@ To simulate a **siren light effect** by blinking two LEDs alternately using an A
 - 2 LEDs
 - Resistors
 - Jumper wires
-- Breadboard (optional)
 
 ---
 
@@ -22,10 +21,13 @@ This creates a **flashing pattern similar to a siren light** used in emergency v
 
 ---
 
-
-## 📷 Output
-
+## 📷 Output Image
 ![Siren LED Output](output.jpeg)
+
+---
+
+## 🎥 Output Video
+![Siren LED Demo](output.mp4)
 
 ---
 
@@ -33,3 +35,5 @@ This creates a **flashing pattern similar to a siren light** used in emergency v
 - Controlling **multiple LEDs using Arduino**
 - Creating **alternating LED patterns**
 - Understanding **timing control using delay()**
+
+---
