@@ -26,8 +26,9 @@ This creates a **flashing pattern similar to a siren light** used in emergency v
 
 ---
 
-## 🎥 Output Video
-![Siren LED Demo](output.mp4)
+## 🎥 Demo Video
+
+[![Watch Demo](output.jpeg)](output.mp4)
 
 ---
 
