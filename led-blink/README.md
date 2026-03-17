@@ -19,6 +19,7 @@ The program turns the LED **ON for 1 second** and then **OFF for 1 second** repe
 
 This demonstrates the basic concept of **digital output control using Arduino**.
 
+---
 
 ## 📷 Output
 
@@ -34,6 +35,3 @@ This demonstrates the basic concept of **digital output control using Arduino**.
 - Understanding **digital output pins**
 - Controlling an **LED using Arduino**
 - Using the `delay()` function to create timing in embedded systems
-
----
-
