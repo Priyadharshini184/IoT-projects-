@@ -91,7 +91,7 @@ The project demonstrates the practical use of embedded systems, IoT, GPS, and GS
 # 📷 Prototype
 
 <p align="center">
-<img src="hardware/prototype.jpeg" width="650">
+<img src="Hardware/prototype.jpeg" width="650">
 </p>
 
 ---
