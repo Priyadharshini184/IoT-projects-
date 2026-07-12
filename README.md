@@ -1,92 +1,146 @@
-# 🌐 IoT Projects using Arduino
+# 🌐 IoT Projects Portfolio
 
-Welcome to my **IoT Learning Repository**!  
-This repository contains the projects and experiments I completed during my **Hands-on IoT Training**.
+Welcome to my **IoT Projects Repository**!
 
-Each project demonstrates different concepts of **embedded systems and sensor-based automation** using the **Arduino Uno**.
+This repository showcases my journey in **Embedded Systems**, **Internet of Things (IoT)**, **Arduino**, and **ESP32** through hands-on projects, workshop activities, and self-developed prototypes.
 
----
-
-## 👩‍💻 About Me
-**Name:** Priyadharshini  
-**Program:** B.E Computer Science and Engineering  
-**Focus Area:** Internet of Things (IoT)
+The projects range from beginner embedded programming concepts to practical IoT applications involving wireless communication, GPS, GSM, and real-world automation systems.
 
 ---
 
-## 🧰 Hardware & Tools Used
+# 👩‍💻 About Me
 
-🔹 Arduino Uno  
-🔹 LEDs  
-🔹 IR Sensor  
-🔹 Resistors  
-🔹 Jumper Wires  
-🔹 Breadboard  
+**Priya Dharshini**
 
-Software Used:
-
-💻 Arduino IDE  
-🔧 Git  
-🌍 GitHub
+- 🎓 B.E. Computer Science and Engineering
+- 🏫 Anna University Regional Campus, Coimbatore
+- 💡 Interested in Artificial Intelligence, Machine Learning, IoT, and Software Development
 
 ---
 
-## 📂 Projects Included
+# 🧰 Hardware & Software
 
-### 💡 LED Blink
-Basic LED blinking program using Arduino digital pins.
+## Hardware
 
-### 🚨 Siren LED
-Two LEDs blink alternately to simulate a **siren effect**.
+- Arduino Uno
+- ESP32 Development Board
+- NEO-6M GPS Module
+- SIM800L GSM Module
+- IR Sensor
+- LEDs
+- Push Button
+- Breadboard
+- Resistors
+- Jumper Wires
+- 18650 Li-ion Battery
+- TP4056 Charging Module
 
-### 🚦 Traffic Light System
-Simulation of a **traffic light controller** using red, yellow, and green LEDs.
+## Software
 
-### 📡 IR Sensor LED Control
-LED turns ON when the **IR sensor detects an object**.
-
-### 🚗 Smart Traffic System with IR Sensor
-A **smart traffic signal system** that changes behavior when an object is detected.
-
----
-
-## 🎯 Learning Outcomes
-
-Through these projects I learned:
-
-✔ Controlling **digital output pins**  
-✔ Using **delay() timing functions**  
-✔ Working with **IR sensors**  
-✔ Building **simple automation systems**  
-✔ Writing **Arduino embedded programs**
+- Arduino IDE
+- Git
+- GitHub
 
 ---
 
-## 📷 Project Structure
+# 📂 Projects
 
-```
-iot-projects
+| Project | Description |
+|----------|-------------|
+| 💡 **LED Blink** | Basic LED blinking using Arduino digital pins. |
+| 🚨 **Siren LED** | Alternate LED blinking to simulate a siren effect. |
+| 🚦 **Traffic Light System** | Simulation of a traffic light controller using LEDs. |
+| 📡 **IR Sensor LED Control** | LED control using an IR obstacle sensor. |
+| 🚗 **Smart Traffic System** | Smart traffic signal system using an IR sensor. |
+| 🛡️ **SafeHer – Wearable Emergency Response System** | IoT-based wearable emergency safety device using ESP32, GPS, GSM, and Telegram notifications. |
+
+---
+
+# ⭐ Featured Project
+
+## 🛡️ SafeHer – Wearable Emergency Response System
+
+SafeHer is a wearable IoT-based emergency response prototype developed to improve personal safety by providing instant emergency communication.
+
+### Key Features
+
+- 🚨 One-touch SOS activation
+- 📍 Real-time GPS location tracking
+- 📱 Telegram emergency alerts
+- 📩 GSM SMS backup alerts
+- 👨‍👩‍👧 Multiple emergency contacts
+- 🗺️ Google Maps location sharing
+- 💾 Last known location backup
+- 🔋 Rechargeable battery-powered system
+
+📁 **Project Folder:** `safeher-emergency-response-system`
+
+---
+
+# 🎯 Skills Demonstrated
+
+Throughout these projects, I gained practical experience in:
+
+- Embedded Programming
+- Arduino Development
+- ESP32 Programming
+- GPS Integration
+- GSM Communication
+- Sensor Interfacing
+- UART Communication
+- IoT System Development
+- Hardware Debugging
+- Git & GitHub Version Control
+
+---
+
+# 📁 Repository Structure
+
+```text
+iot-projects/
 │
-├── led-blink
-├── siren-led
-├── traffic-light
-├── ir-sensor
-└── smart-traffic-ir
+├── led-blink/
+├── siren-led/
+├── traffic-light/
+├── ir-sensor-led/
+├── smart-traffic-led/
+└── safeher-emergency-response-system/
 ```
 
-Each project folder contains:
-- Arduino code (`.ino`)
-- Output images/videos
-- Project explanation (`README.md`)
+Each project includes:
+
+- Source Code
+- Documentation
+- Images
+- Demonstration (where applicable)
 
 ---
 
-## 🚀 Future Improvements
+# 🚀 Future Learning Goals
 
-🔹 Add more **IoT sensor projects**  
-🔹 Integrate **WiFi modules (ESP8266 / ESP32)**  
-🔹 Create **real-world IoT automation systems**
+As I continue learning IoT and Embedded Systems, I plan to explore:
+
+- MQTT Communication
+- ESP32 Cloud Integration
+- Home Automation
+- Smart Agriculture
+- Edge AI on ESP32
+- PCB Design
+- Mobile App Integration
+- Over-the-Air (OTA) Firmware Updates
 
 ---
 
-⭐ If you find this repository useful, feel free to explore the projects!
+# 📜 License
+
+Each project may include its own license. Please refer to the respective project folder for more information.
+
+---
+
+# 🤝 Connect
+
+Thank you for visiting my repository!
+
+If you find these projects helpful or interesting, feel free to explore the repository and ⭐ star it.
+
+I am continuously learning and building new IoT and embedded systems projects.
