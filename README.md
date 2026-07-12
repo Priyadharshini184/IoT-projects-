@@ -10,7 +10,7 @@ The projects range from beginner embedded programming concepts to practical IoT 
 
 # 👩‍💻 About Me
 
-**Priya Dharshini**
+**Priyadharshini R**
 
 - 🎓 B.E. Computer Science and Engineering
 - 🏫 Anna University Regional Campus, Coimbatore
@@ -112,7 +112,7 @@ Each project includes:
 - Source Code
 - Documentation
 - Images
-- Demonstration (where applicable)
+- Demonstration 
 
 ---
 
