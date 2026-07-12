@@ -224,7 +224,7 @@ This project is licensed under the **MIT License**.
 
 # 👩‍💻 Developed By
 
-**Priyadharshini**
+**Priyadharshini R**
 
 B.E. Computer Science and Engineering
 
